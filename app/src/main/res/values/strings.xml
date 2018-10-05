@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DoctorRex</string>
+    <string-array name="blood_type">
+        <item>ORH+</item>
+        <item>ARH+</item>
+        <item>ORH-</item>
+        <item>A+</item>
+        <item>B+</item>
+    </string-array>
+    <string name="credit_card_text"></string>
+    <string name="nombre"></string>
+    <string name="apellido"></string>
+    <string name="correo"></string>
+</resources>
